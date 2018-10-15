@@ -16,7 +16,7 @@ Deductions:
 
 - 5% penalty per obstacle hit or rover 'reset'
 
-![Maze Layout](Maze Layout.png)
+![Maze Layout](https://github.com/wangraym/Automous-Rover/blob/master/Maze Layout.png)
 
 In its first evaluation trial, our rover completed all objectives in 64 seconds with an unknown starting orientation!
 
